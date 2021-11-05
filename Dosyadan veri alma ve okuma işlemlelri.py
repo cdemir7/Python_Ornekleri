@@ -1,4 +1,4 @@
-#Bu derste göreceğimiz fonksiyonlarü
+#Bu derste göreceğimiz fonksiyonlar
 #read() Bu fonksiyonda dosyanın içindeki şeylerin hepsini almış olacağız ve print fonksiyonu ile de ekrana yazdırabiliriz
 #readline() Dosyanın içindekileri satır satır almak için kullanılır.
 #readlines() Bu fonksiyonda dosyanın içindeki bütün satırları gösteriyor ama liste şeklinde gösteriyor.
